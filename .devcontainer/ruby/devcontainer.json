@@ -1,0 +1,9 @@
+{
+    "name": "Ruby Heroes",
+    "workspaceFolder": "/workspaces/educationy/lessons/ruby",
+    "customizations": {
+        "codespaces": {
+          "openFiles": ["README.md"]
+        }
+    }
+}

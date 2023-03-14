@@ -1,0 +1,15 @@
+{
+    "name": "Talking to Computers",
+    "workspaceFolder": "/workspaces/educationy/lessons/ai",
+    "secrets": {
+        "CHAT_GPT_API_KEY": {
+            "description": "This course requires your CHAT_GPT_API_KEY to function properly.",
+            "documentationUrl": "https://platform.openai.com/ai-text-classifier"
+        }
+    },
+    "customizations": {
+        "codespaces": {
+          "openFiles": ["README.md"]
+        }
+    }
+}

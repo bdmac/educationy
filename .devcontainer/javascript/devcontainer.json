@@ -1,0 +1,9 @@
+{
+    "name": "Javascript 101",
+    "workspaceFolder": "/workspaces/educationy/lessons/javascript",
+    "customizations": {
+        "codespaces": {
+          "openFiles": ["README.md"]
+        }
+    }
+}
