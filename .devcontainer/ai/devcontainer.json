@@ -5,18 +5,6 @@
         "CHAT_GPT_API_KEY": {
             "description": "This course requires your CHAT_GPT_API_KEY to function properly.",
             "documentationUrl": "https://platform.openai.com/ai-text-classifier"
-        },
-        "NAME_OF_SECRET_1": { },
-        "NAME_OF_SECRET_2": {
-          "description": "This is the description of the secret.",
-          "documentationUrl": "https://example.com/link/to/info"
-        },
-        "NAME_OF_SECRET_3": {
-          "description": "Another secret you should set for this project.",
-          "documentationUrl": "https://example.com/link/to/info"
-        },
-        "NAME_OF_SECRET_4": {
-          "description": "Another recommended secret."
         }
     },
     "customizations": {
