@@ -4,3 +4,6 @@
     "customizations": {
         "codespaces": {
           "openFiles": ["README.md"]
+        }
+    }
+}
