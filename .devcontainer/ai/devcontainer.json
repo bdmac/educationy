@@ -5,6 +5,9 @@
         "CHAT_GPT_API_KEY": {
             "description": "This course requires your CHAT_GPT_API_KEY to function properly.",
             "documentationUrl": "https://platform.openai.com/ai-text-classifier"
+        },
+        "CHAT_GPT_API_KEY": {
+            "description": "This should be invisible",
         }
     },
     "customizations": {
