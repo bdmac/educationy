@@ -13,3 +13,7 @@ Example of what a possible education focussed partner repo could look like.
 - **Talking to Computers** - It's not just me, we all do it right?
   
    [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/bdmac/educationy?devcontainer_path=.devcontainer/ai/devcontainer.json&resume=1)
+
+## Run on [Codeanywhere](https://codeanywhere.com)
+
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/bdmac/educationy)
