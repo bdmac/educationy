@@ -1,6 +1,9 @@
 # Lets Learn!
 Example of what a possible education focussed partner repo could look like.
 
+## Run on [Codeanywhere](https://codeanywhere.com)
+
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/bdmac/educationy)
 
 ## Lesson Index
 
